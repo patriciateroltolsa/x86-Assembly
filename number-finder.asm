@@ -1,4 +1,4 @@
-TITLE numberfinder
+TITLE number-finder
 
 ;; Author: Patricia Terol
 ;; Course: CSE 3120
